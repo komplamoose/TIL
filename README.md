@@ -15,3 +15,5 @@ Today I Learn : 내가 공부한 것 정리 🐵
 
 ### ⏮️ Backtracking ⏮️
 * [백트래킹 기본개념](https://github.com/komplamoose/TIL/blob/main/Algorithm/Backtracking/Backtracking_Concept.md)
+* [N-Queens](https://github.com/komplamoose/TIL/blob/main/Algorithm/Backtracking/N-Queens.md)
+* [부분집합의 합](https://github.com/komplamoose/TIL/blob/main/Algorithm/Backtracking/SumOfSubsets.md)
