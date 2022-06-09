@@ -21,6 +21,7 @@ Today I Learn <br>
 * [부분집합의 합](https://github.com/komplamoose/TIL/blob/main/Algorithm/Backtracking/SumOfSubsets.md)
 * [M-Coloring](https://github.com/komplamoose/TIL/blob/main/Algorithm/Backtracking/M-Coloring.md)
 * [해밀턴 회로](https://github.com/komplamoose/TIL/blob/main/Algorithm/Backtracking/Hamilton_Circuit.md)
+* [0-1 배낭문제 : 백트래킹](https://github.com/komplamoose/TIL/blob/main/Algorithm/Backtracking/Backtracking_0-1_Knapsack.md)
 
 
 ### 📈 Dynamic Programming 📉
