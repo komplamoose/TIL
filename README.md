@@ -1,7 +1,7 @@
 # TIL 🤟
 Today I Learn <br>
 
-안산 시장이 꿈입니다.
+나 사나이 강보석
 
 ---
 <br>
