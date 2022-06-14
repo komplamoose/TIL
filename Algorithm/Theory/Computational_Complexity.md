@@ -352,6 +352,8 @@ void partiotion(int low, int high, int& pivotpoint)
         - $W(n) <= 22n$
     - Worst case에서도 Linear함이 보장되는 정렬이 되었다.
 
+# :: 미디안 찾는 최소 비교횟수 공식 : 6n/5
+
 ### 실제로 구현한 Median 사용 알고리즘 (Algorithm 8.6)
 
 ```cpp
