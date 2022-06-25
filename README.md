@@ -35,3 +35,11 @@ Today I Learn <br>
 * [분기한정 기본개념](https://github.com/komplamoose/TIL/blob/main/Algorithm/BranchAndBound/BranchAndBound_Concepts.md)
 * [0-1 배낭 문제 : 분기한정](https://github.com/komplamoose/TIL/blob/main/Algorithm/BranchAndBound/BranchAndBound_0-1_Knapsack.md)
 * [외판원 순회 : 분기한정](https://github.com/komplamoose/TIL/blob/main/Algorithm/BranchAndBound/BranchAndBound_TSP_Problem.md)
+
+
+<br>
+
+## 🧘‍♂️ C++ Tips 🧘‍♂️
+
+### 📖 String 📖
+* [streamstring : 문자열 파싱](https://github.com/komplamoose/TIL/blob/main/C%2B%2B/string/Parsing_string.md)
