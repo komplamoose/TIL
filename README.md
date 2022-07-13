@@ -10,6 +10,7 @@ Today I Learn <br>
 
 ### :pen: Basic
 * [함수 표현식과 화살표 함수](https://github.com/komplamoose/TIL/blob/main/Javascript/Basic/%ED%95%A8%EC%88%98%ED%91%9C%ED%98%84%EC%8B%9D%EA%B3%BC_%ED%99%94%EC%82%B4%ED%91%9C%ED%95%A8%EC%88%98.md)
+* [객체 기본](https://github.com/komplamoose/TIL/blob/main/Javascript/Basic/%EA%B0%9D%EC%B2%B4%EC%99%80_This.md)
 
 
 <br>
