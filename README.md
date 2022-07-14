@@ -11,6 +11,7 @@ Today I Learn <br>
 ### :pen: Basic
 * [함수 표현식과 화살표 함수](https://github.com/komplamoose/TIL/blob/main/Javascript/Basic/%ED%95%A8%EC%88%98%ED%91%9C%ED%98%84%EC%8B%9D%EA%B3%BC_%ED%99%94%EC%82%B4%ED%91%9C%ED%95%A8%EC%88%98.md)
 * [객체 기본](https://github.com/komplamoose/TIL/blob/main/Javascript/Basic/%EA%B0%9D%EC%B2%B4%EC%99%80_This.md)
+* [배열 기본](https://github.com/komplamoose/TIL/blob/main/Javascript/Basic/%EB%B0%B0%EC%97%B4_Basic.md)
 
 ### :eye: Advanced
 * [변수와 호이스팅, TDZ](https://github.com/komplamoose/TIL/blob/main/Javascript/Advanced/%EB%B3%80%EC%88%98_%ED%98%B8%EC%9D%B4%EC%8A%A4%ED%8C%85_TDZ.md)
