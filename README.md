@@ -18,6 +18,7 @@ Today, I Learned <br>
 * [메소드와 계산된 프로퍼티](https://github.com/komplamoose/TIL/blob/main/Javascript/Advanced/%EB%A9%94%EC%86%8C%EB%93%9Cand%EA%B3%84%EC%82%B0%EB%90%9C_%ED%94%84%EB%A1%9C%ED%8D%BC%ED%8B%B0.md)
 * [생성자 함수](https://github.com/komplamoose/TIL/blob/main/Javascript/Advanced/%EC%83%9D%EC%84%B1%EC%9E%90%ED%95%A8%EC%88%98.md)
 * [심볼](https://github.com/komplamoose/TIL/blob/main/Javascript/Advanced/%EC%8B%AC%EB%B3%BC.md)
+* [숫자와 수학 메소드](https://github.com/komplamoose/TIL/blob/main/Javascript/Advanced/%EC%88%AB%EC%9E%90_%EC%88%98%ED%95%99_%EB%A9%94%EC%86%8C%EB%93%9C.md)
 
 
 <br>
