@@ -14,6 +14,8 @@ Today I Learn <br>
 
 ### :eye: Advanced
 * [변수와 호이스팅, TDZ](https://github.com/komplamoose/TIL/blob/main/Javascript/Advanced/%EB%B3%80%EC%88%98_%ED%98%B8%EC%9D%B4%EC%8A%A4%ED%8C%85_TDZ.md)
+* [메소드와 계산된 프로퍼티](https://github.com/komplamoose/TIL/blob/main/Javascript/Advanced/%EB%A9%94%EC%86%8C%EB%93%9Cand%EA%B3%84%EC%82%B0%EB%90%9C_%ED%94%84%EB%A1%9C%ED%8D%BC%ED%8B%B0.md)
+* [생성자 함수](https://github.com/komplamoose/TIL/blob/main/Javascript/Advanced/%EC%83%9D%EC%84%B1%EC%9E%90%ED%95%A8%EC%88%98.md)
 
 
 <br>
