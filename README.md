@@ -1,5 +1,5 @@
 # TIL 🤟
-Today I Learn <br>
+Today, I Learned <br>
 
 나 사나이 강보석
 
