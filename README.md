@@ -19,6 +19,7 @@ Today, I Learned <br>
 * [생성자 함수](https://github.com/komplamoose/TIL/blob/main/Javascript/Advanced/%EC%83%9D%EC%84%B1%EC%9E%90%ED%95%A8%EC%88%98.md)
 * [심볼](https://github.com/komplamoose/TIL/blob/main/Javascript/Advanced/%EC%8B%AC%EB%B3%BC.md)
 * [숫자와 수학 메소드](https://github.com/komplamoose/TIL/blob/main/Javascript/Advanced/%EC%88%AB%EC%9E%90_%EC%88%98%ED%95%99_%EB%A9%94%EC%86%8C%EB%93%9C.md)
+* [배열 메소드 1](https://github.com/komplamoose/TIL/blob/main/Javascript/Advanced/%EB%B0%B0%EC%97%B4%EB%A9%94%EC%86%8C%EB%93%9C_1.md)
 
 
 <br>
