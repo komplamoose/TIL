@@ -57,7 +57,7 @@ Today, I Learned <br>
 
 <br>
 
-## 🧘‍♂️ C++ Tips
+## 🧘‍♂️ C++
 
 ### 📖 String
 * [streamstring : 문자열 파싱](https://github.com/komplamoose/TIL/blob/main/C%2B%2B/string/Parsing_string.md)
