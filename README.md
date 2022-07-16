@@ -21,6 +21,7 @@ Today, I Learned <br>
 * [숫자와 수학 메소드](https://github.com/komplamoose/TIL/blob/main/Javascript/Advanced/%EC%88%AB%EC%9E%90_%EC%88%98%ED%95%99_%EB%A9%94%EC%86%8C%EB%93%9C.md)
 * [배열 메소드 1](https://github.com/komplamoose/TIL/blob/main/Javascript/Advanced/%EB%B0%B0%EC%97%B4%EB%A9%94%EC%86%8C%EB%93%9C_1.md)
 * [배열 메소드 2 (sort, reduce)](https://github.com/komplamoose/TIL/blob/main/Javascript/Advanced/%EB%B0%B0%EC%97%B4_%EB%A9%94%EC%86%8C%EB%93%9C_sort_reduce.md)
+* [구조 분해 할당](https://github.com/komplamoose/TIL/blob/main/Javascript/Advanced/%EA%B5%AC%EC%A1%B0%EB%B6%84%ED%95%B4%ED%95%A0%EB%8B%B9.md)
 
 <br>
 
