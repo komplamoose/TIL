@@ -27,6 +27,7 @@ Today, I Learned <br>
 * [setTimeout()과 setInterval()](https://github.com/komplamoose/TIL/blob/main/Javascript/Advanced/setTimeout_setInterval.md)
 * [call, apply, bind](https://github.com/komplamoose/TIL/blob/main/Javascript/Advanced/call_apply_bind.md)
 * [상속과 프로토타입](https://github.com/komplamoose/TIL/blob/main/Javascript/Advanced/%EC%83%81%EC%86%8D_%ED%94%84%EB%A1%9C%ED%86%A0%ED%83%80%EC%9E%85.md)
+* [클래스(Class)](https://github.com/komplamoose/TIL/blob/main/Javascript/Advanced/%ED%81%B4%EB%9E%98%EC%8A%A4(Class).md)
 
 <br>
 
