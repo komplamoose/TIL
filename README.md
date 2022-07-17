@@ -28,6 +28,7 @@ Today, I Learned <br>
 * [call, apply, bind](https://github.com/komplamoose/TIL/blob/main/Javascript/Advanced/call_apply_bind.md)
 * [상속과 프로토타입](https://github.com/komplamoose/TIL/blob/main/Javascript/Advanced/%EC%83%81%EC%86%8D_%ED%94%84%EB%A1%9C%ED%86%A0%ED%83%80%EC%9E%85.md)
 * [클래스(Class)](https://github.com/komplamoose/TIL/blob/main/Javascript/Advanced/%ED%81%B4%EB%9E%98%EC%8A%A4(Class).md)
+* [프로미스(Promise)](https://github.com/komplamoose/TIL/blob/main/Javascript/Advanced/%ED%94%84%EB%A1%9C%EB%AF%B8%EC%8A%A4(Promise).md)
 
 <br>
 
